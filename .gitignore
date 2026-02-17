@@ -4,3 +4,8 @@ venv/
 
 # Course files
 fastapi-the-complete-course/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+**/__init__.py

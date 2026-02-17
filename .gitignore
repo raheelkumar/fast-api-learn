@@ -1,0 +1,6 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Course files
+fastapi-the-complete-course/
